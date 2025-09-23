@@ -2,6 +2,14 @@
   "name": "professionalbackend",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://github.com/sumitchauhan0467/Profession-backend#readme",
+  "bugs": {
+    "url": "https://github.com/sumitchauhan0467/Profession-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitchauhan0467/Profession-backend.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "commonjs",
